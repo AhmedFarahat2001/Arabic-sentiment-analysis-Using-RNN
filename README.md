@@ -11,7 +11,7 @@ Arabic sentiment analysis faces unique challenges due to rich morphology, divers
 ## 🛠️ Features
 
 * **Arabic-Specific Text Preprocessing:**
-    * Removal of punctuation, emojis, URLs, Digits and English characters. 
+    * Removal of punctuation, emojis, and Digits. 
     * Removal of Arabic stop words.
       
 * **Tokenization & Padding:** Converts text sequences into standardized numerical sequences ready for deep learning models.
